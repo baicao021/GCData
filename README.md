@@ -24,4 +24,4 @@ At the last, the data set was aggreated by subject and activity with `mean()` fu
   
   Extraction of specific variables is very simple by employing `grep()` function on colnames.
   
-  At the last, `aggregate()` function could be introduced to aggreate variables for each variable for each activity and each subject.
+  At the last, `aggregate()` function could be introduced to aggreate variables of each variable for each activity and each subject.
